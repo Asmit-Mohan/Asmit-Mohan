@@ -74,9 +74,13 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Asmit-Mohan&show_icons=true&locale=en&layout=compact" alt="Asmit-Mohan" />
 </p>
 
-<p>&nbsp;
+<br />
+
+<p>
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=Asmit-Mohan&show_icons=true&locale=en" alt="Asmit-Mohan" />
 </p>
+
+<br />
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Asmit-Mohan&" alt="Asmit-Mohan" /></p>
 
