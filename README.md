@@ -1,4 +1,5 @@
-### Hi there, I'm Asmit Mohan 👋 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Asmit Mohan</h1>
+<img src="https://st2.depositphotos.com/3126965/8993/v/950/depositphotos_89930444-stock-illustration-student-with-laptop.jpg" width= 350px>
 
 ## I'm a Web developer
 
