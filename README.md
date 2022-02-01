@@ -1,6 +1,6 @@
 ### Hi there, I'm Asmit Mohan 👋 
 
-## I'm a passionate MERN Web developer
+## I'm a Web developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Asmit-Mohan&label=Profile%20views&color=0e75b6&style=flat" alt="Asmit-Mohan" /> </p>
 
@@ -46,20 +46,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 </a> 
  
-<a href="#" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-</a>
- 
  <a href="#" target="_blank">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
  </a>
- 
-<a href="#" target="_blank">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-</a>
- 
- <a href="#" target="_blank">
- <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a>
  
 <a href="#" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
