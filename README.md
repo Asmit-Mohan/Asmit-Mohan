@@ -51,7 +51,7 @@
  </a>
  
  <a href="#" target="_blank">
- <img src="https://www.educative.io/v2api/collection/10370001/5227455105204224/image/6349680696885248" alt="mongoDB" width="40" height="40"/>
+ <img src="https://1000logos.net/wp-content/uploads/2020/08/MongoDB-Emblem-500x313.jpg" alt="mongoDB" width="50" height="45"/>
  </a>
  
 <a href="#" target="_blank">
