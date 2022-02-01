@@ -50,8 +50,16 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
  </a>
  
+ <a href="#" target="_blank">
+ <img src="https://www.educative.io/v2api/collection/10370001/5227455105204224/image/6349680696885248" alt="mongoDB" width="40" height="40"/>
+ </a>
+ 
 <a href="#" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+</a>
+ 
+<a href="#" target="_blank">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png" alt="PHP" width="40" height="40"/>
 </a>
  
  <a href="#" target="_blank">
