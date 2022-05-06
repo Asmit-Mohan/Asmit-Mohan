@@ -24,7 +24,6 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | GFG" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/geeksforgeeks.svg" />][GFG]
 [<img align="left" alt="codeSTACKr | Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" />][Codechef]
-[<img align="left" alt="codeSTACKr | Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" />][Leetcode]
 [<img align="left" alt="codeSTACKr | HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" />][HackerRank]
 
 <br />
@@ -90,5 +89,4 @@
 [linkedin]: https://www.linkedin.com/in/asmit-mohan-726230215/
 [GFG]: https://auth.geeksforgeeks.org/user/asmit2020ca018/practice/
 [Codechef]: https://www.codechef.com/users/asmit_123
-[Leetcode]: https://leetcode.com/asmit_2000/
 [HackerRank]: https://www.hackerrank.com/asmitmurari
