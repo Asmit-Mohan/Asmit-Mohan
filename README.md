@@ -1,5 +1,3 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Asmit Mohan</h1>
-
 [![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Asmit%20Mohan%20🤠&text2=💖%20Hello%20Friends&width=800&height=400)](https://github.com/Akshay090/svg-banners)
 
 ## I'm a Web developer
