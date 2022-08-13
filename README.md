@@ -1,6 +1,6 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Asmit%20Mohan%20🤠&text2=💖%20Hello%20Friends&width=800&height=400)](https://github.com/Akshay090/svg-banners)
+### Hi there, I'm Asmit Mohan 👋
 
-## I'm a Web developer
+## I'm a Student and Web developer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Asmit-Mohan&label=Profile%20views&color=0e75b6&style=flat" alt="Asmit-Mohan" /> </p>
 
