@@ -14,7 +14,7 @@
 
  - ⚡ CodeChef Rating: ⭐⭐⭐ (3 stars)
 
- - 📄 Know about my experiences https://drive.google.com/file/d/1PsnaCfM-lU1jGSqA2n-6RoYEMOMYTOjL/view?usp=sharing
+ - 📄 Know about my experiences https://drive.google.com/file/d/144qZUIqtVMdHr4XFB8OpPjWKZCzE5ERh/view?usp=sharing
 
 ### Connect with me:
 
