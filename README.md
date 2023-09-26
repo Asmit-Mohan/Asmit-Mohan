@@ -1,6 +1,6 @@
 ### Hi there, I'm Asmit Mohan 👋
 
-## I'm a Student and Web developer
+## I'm a Software Engineer
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Asmit-Mohan&label=Profile%20views&color=0e75b6&style=flat" alt="Asmit-Mohan" /> </p>
 
